@@ -1,1 +1,35 @@
+# Настройки сайта
+title: Портфолио BLITZKIRD
+author: BLITZKIRD
+description: Разработчик Telegram ботов и веб-приложений
+email: m4xime.berezen@gmail.com
+
+# Домен
+url: "https://BLITZKIRD.github.io"
+baseurl: ""
+
+# Тема оформления
 theme: minima
+
+# Настройки навигации
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+
+# Социальные ссылки
+github_username: BLITZKIRD
+telegram_username: BLITZKIRD
+
+
+# Настройки Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Плагины
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Настройки для GitHub Pages
+github: [metadata]

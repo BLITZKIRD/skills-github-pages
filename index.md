@@ -58,7 +58,7 @@ title: Главная
 |-----------|--------|
 | 🐙 GitHub | [github.com/BLITZKIRD](https://github.com/BLITZKIRD) |
 | 💬 Telegram | [@BLITZKIRD](https://t.me/BLITZKIRD) |
-| 📧 Email | *blitzkird@example.com* |
+| 📧 Email | *m4xime.berezen@gmail.com* |
 
 ---
 

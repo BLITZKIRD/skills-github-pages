@@ -1,3 +1,5 @@
+# Тема оформления
+theme: minima
 # Настройки сайта
 title: Портфолио BLITZKIRD
 author: BLITZKIRD
@@ -8,8 +10,7 @@ email: m4xime.berezen@gmail.com
 url: "https://BLITZKIRD.github.io"
 baseurl: ""
 
-# Тема оформления
-theme: minima
+
 
 # Настройки навигации
 header_pages:
